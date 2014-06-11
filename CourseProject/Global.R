@@ -1,0 +1,1 @@
+mydata<- read.csv("wind2.csv", header=TRUE)
